@@ -1,7 +1,7 @@
 # Leitura dos dados
-alunos = int(input("Digite a quantidade de alunos: 70 "))
-monitores = int(input("Digite a quantidade de monitores: 10 "))
-convidados = int(input("Digite a quantidade de convidados: 15 "))
+alunos = int(input("70"))
+monitores = int(input("10"))
+convidados = int(input("15"))
 
 # Regras do evento
 total_pessoas = alunos + monitores + convidados
